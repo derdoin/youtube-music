@@ -194,7 +194,8 @@
     "rollup-plugin-string": "3.0.0",
     "typescript": "5.2.2",
     "yarpm": "1.2.0"
-  },
+  }
+  
   "auto-changelog": {
     "hideCredit": true,
     "package": true,
